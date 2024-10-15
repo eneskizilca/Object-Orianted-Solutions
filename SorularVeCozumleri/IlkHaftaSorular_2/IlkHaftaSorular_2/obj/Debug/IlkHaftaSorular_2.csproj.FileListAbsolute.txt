@@ -1,0 +1,7 @@
+C:\Users\Enes Kızılca\source\repos\IlkHaftaSorular_2\IlkHaftaSorular_2\bin\Debug\IlkHaftaSorular_2.exe.config
+C:\Users\Enes Kızılca\source\repos\IlkHaftaSorular_2\IlkHaftaSorular_2\bin\Debug\IlkHaftaSorular_2.exe
+C:\Users\Enes Kızılca\source\repos\IlkHaftaSorular_2\IlkHaftaSorular_2\bin\Debug\IlkHaftaSorular_2.pdb
+C:\Users\Enes Kızılca\source\repos\IlkHaftaSorular_2\IlkHaftaSorular_2\obj\Debug\IlkHaftaSorular_2.csprojAssemblyReference.cache
+C:\Users\Enes Kızılca\source\repos\IlkHaftaSorular_2\IlkHaftaSorular_2\obj\Debug\IlkHaftaSorular_2.csproj.CoreCompileInputs.cache
+C:\Users\Enes Kızılca\source\repos\IlkHaftaSorular_2\IlkHaftaSorular_2\obj\Debug\IlkHaftaSorular_2.exe
+C:\Users\Enes Kızılca\source\repos\IlkHaftaSorular_2\IlkHaftaSorular_2\obj\Debug\IlkHaftaSorular_2.pdb
