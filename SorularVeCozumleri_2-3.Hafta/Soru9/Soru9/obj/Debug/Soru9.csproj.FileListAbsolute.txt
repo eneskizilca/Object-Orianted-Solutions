@@ -1,0 +1,7 @@
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri2\Soru9\Soru9\bin\Debug\Soru9.exe.config
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri2\Soru9\Soru9\bin\Debug\Soru9.exe
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri2\Soru9\Soru9\bin\Debug\Soru9.pdb
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri2\Soru9\Soru9\obj\Debug\Soru9.csprojAssemblyReference.cache
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri2\Soru9\Soru9\obj\Debug\Soru9.csproj.CoreCompileInputs.cache
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri2\Soru9\Soru9\obj\Debug\Soru9.exe
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri2\Soru9\Soru9\obj\Debug\Soru9.pdb
