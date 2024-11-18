@@ -1,2 +1,2 @@
 # NTP_Odev_Sorular
-Nesne Tabanlı Programlama Dersi - Haftalık Algoritma Soruları
+Nesne Tabanlı Programlama Dersi - Haftalık Sorular
