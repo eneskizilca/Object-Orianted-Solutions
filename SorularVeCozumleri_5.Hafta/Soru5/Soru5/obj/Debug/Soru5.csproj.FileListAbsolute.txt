@@ -1,0 +1,7 @@
+c:\users\enes kızılca\source\repos\SorularVeCozumleri_5.Hafta\Soru5\Soru5\bin\Debug\Soru5.exe.config
+c:\users\enes kızılca\source\repos\SorularVeCozumleri_5.Hafta\Soru5\Soru5\bin\Debug\Soru5.exe
+c:\users\enes kızılca\source\repos\SorularVeCozumleri_5.Hafta\Soru5\Soru5\bin\Debug\Soru5.pdb
+c:\users\enes kızılca\source\repos\SorularVeCozumleri_5.Hafta\Soru5\Soru5\obj\Debug\Soru5.csprojAssemblyReference.cache
+c:\users\enes kızılca\source\repos\SorularVeCozumleri_5.Hafta\Soru5\Soru5\obj\Debug\Soru5.csproj.CoreCompileInputs.cache
+c:\users\enes kızılca\source\repos\SorularVeCozumleri_5.Hafta\Soru5\Soru5\obj\Debug\Soru5.exe
+c:\users\enes kızılca\source\repos\SorularVeCozumleri_5.Hafta\Soru5\Soru5\obj\Debug\Soru5.pdb
