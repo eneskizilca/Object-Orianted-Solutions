@@ -1,0 +1,7 @@
+C:\Users\eneskizilca\source\repos\SorularVeCozumleri_5.Hafta\Soru10\Soru10\obj\Debug\Soru10.csprojAssemblyReference.cache
+C:\Users\eneskizilca\source\repos\SorularVeCozumleri_5.Hafta\Soru10\Soru10\obj\Debug\Soru10.csproj.CoreCompileInputs.cache
+C:\Users\eneskizilca\source\repos\SorularVeCozumleri_5.Hafta\Soru10\Soru10\bin\Debug\Soru10.exe.config
+C:\Users\eneskizilca\source\repos\SorularVeCozumleri_5.Hafta\Soru10\Soru10\bin\Debug\Soru10.exe
+C:\Users\eneskizilca\source\repos\SorularVeCozumleri_5.Hafta\Soru10\Soru10\bin\Debug\Soru10.pdb
+C:\Users\eneskizilca\source\repos\SorularVeCozumleri_5.Hafta\Soru10\Soru10\obj\Debug\Soru10.exe
+C:\Users\eneskizilca\source\repos\SorularVeCozumleri_5.Hafta\Soru10\Soru10\obj\Debug\Soru10.pdb
