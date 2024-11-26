@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35213.121
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indeksleyiciler_1", "Indeksleyiciler_1\Indeksleyiciler_1.csproj", "{230EB221-754A-488F-A905-B999B49A47D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{230EB221-754A-488F-A905-B999B49A47D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230EB221-754A-488F-A905-B999B49A47D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230EB221-754A-488F-A905-B999B49A47D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230EB221-754A-488F-A905-B999B49A47D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A70B92A-9B1A-467C-9795-4B1D08D0F937}
+	EndGlobalSection
+EndGlobal

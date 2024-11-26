@@ -1,0 +1,7 @@
+c:\users\enes kızılca\source\repos\SorularVeCozumleri_6.Hafta\Enum_1\Enum_1\bin\Debug\Enum_1.exe.config
+c:\users\enes kızılca\source\repos\SorularVeCozumleri_6.Hafta\Enum_1\Enum_1\bin\Debug\Enum_1.exe
+c:\users\enes kızılca\source\repos\SorularVeCozumleri_6.Hafta\Enum_1\Enum_1\bin\Debug\Enum_1.pdb
+c:\users\enes kızılca\source\repos\SorularVeCozumleri_6.Hafta\Enum_1\Enum_1\obj\Debug\Enum_1.csprojAssemblyReference.cache
+c:\users\enes kızılca\source\repos\SorularVeCozumleri_6.Hafta\Enum_1\Enum_1\obj\Debug\Enum_1.csproj.CoreCompileInputs.cache
+c:\users\enes kızılca\source\repos\SorularVeCozumleri_6.Hafta\Enum_1\Enum_1\obj\Debug\Enum_1.exe
+c:\users\enes kızılca\source\repos\SorularVeCozumleri_6.Hafta\Enum_1\Enum_1\obj\Debug\Enum_1.pdb
