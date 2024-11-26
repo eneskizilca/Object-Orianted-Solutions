@@ -1,0 +1,7 @@
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri_6.Hafta\Struct_2\Struct_2\bin\Debug\Struct_2.exe.config
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri_6.Hafta\Struct_2\Struct_2\bin\Debug\Struct_2.exe
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri_6.Hafta\Struct_2\Struct_2\bin\Debug\Struct_2.pdb
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri_6.Hafta\Struct_2\Struct_2\obj\Debug\Struct_2.csprojAssemblyReference.cache
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri_6.Hafta\Struct_2\Struct_2\obj\Debug\Struct_2.csproj.CoreCompileInputs.cache
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri_6.Hafta\Struct_2\Struct_2\obj\Debug\Struct_2.exe
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri_6.Hafta\Struct_2\Struct_2\obj\Debug\Struct_2.pdb
