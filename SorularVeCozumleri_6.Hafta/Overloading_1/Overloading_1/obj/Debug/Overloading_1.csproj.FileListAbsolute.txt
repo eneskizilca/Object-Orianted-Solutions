@@ -1,0 +1,7 @@
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri_6.Hafta\Overloading_1\Overloading_1\bin\Debug\Overloading_1.exe.config
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri_6.Hafta\Overloading_1\Overloading_1\bin\Debug\Overloading_1.exe
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri_6.Hafta\Overloading_1\Overloading_1\bin\Debug\Overloading_1.pdb
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri_6.Hafta\Overloading_1\Overloading_1\obj\Debug\Overloading_1.csprojAssemblyReference.cache
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri_6.Hafta\Overloading_1\Overloading_1\obj\Debug\Overloading_1.csproj.CoreCompileInputs.cache
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri_6.Hafta\Overloading_1\Overloading_1\obj\Debug\Overloading_1.exe
+C:\Users\Enes Kızılca\source\repos\SorularVeCozumleri_6.Hafta\Overloading_1\Overloading_1\obj\Debug\Overloading_1.pdb
