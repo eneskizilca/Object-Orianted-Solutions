@@ -1,0 +1,7 @@
+C:\Users\eneskizilca\source\repos\SorularVeCozumleri_7.Uygulamalar\AbstractClass_3\AbstractClass_3\bin\Debug\AbstractClass_3.exe.config
+C:\Users\eneskizilca\source\repos\SorularVeCozumleri_7.Uygulamalar\AbstractClass_3\AbstractClass_3\bin\Debug\AbstractClass_3.exe
+C:\Users\eneskizilca\source\repos\SorularVeCozumleri_7.Uygulamalar\AbstractClass_3\AbstractClass_3\bin\Debug\AbstractClass_3.pdb
+C:\Users\eneskizilca\source\repos\SorularVeCozumleri_7.Uygulamalar\AbstractClass_3\AbstractClass_3\obj\Debug\AbstractClass_3.csprojAssemblyReference.cache
+C:\Users\eneskizilca\source\repos\SorularVeCozumleri_7.Uygulamalar\AbstractClass_3\AbstractClass_3\obj\Debug\AbstractClass_3.csproj.CoreCompileInputs.cache
+C:\Users\eneskizilca\source\repos\SorularVeCozumleri_7.Uygulamalar\AbstractClass_3\AbstractClass_3\obj\Debug\AbstractClass_3.exe
+C:\Users\eneskizilca\source\repos\SorularVeCozumleri_7.Uygulamalar\AbstractClass_3\AbstractClass_3\obj\Debug\AbstractClass_3.pdb
