@@ -1,2 +1,2 @@
-# NTP_Odev_Sorular
-Nesne Tabanlı Programlama Dersi - Haftalık Sorular
+# Object - Oriented Programming
+Nesne Tabanlı Programlama - Çözümler
